@@ -14,7 +14,7 @@
 ## Documentation
 > commandes à entrer dans le terminal
 ### Fichier .pdf
-- [Rapport_SAE1.01.pdf](https://codefirst.iut.uca.fr/git/gabriel.coudel-koumba/sae_1.01/src/branch/master/doc/Rapport_SAE1.01.pdf)
+- [Rapport_SAE1.01.pdf](https://github.com/letrude/Gestion_de_stages/blob/main/doc/Rapport_SAE1.01.pdf)
 - Depuis la racine du répertoire : ``` cd doc/ ```
 ### Générer la documentation doxygen
 - Depuis la racine du répertoire : ``` doxygen ``` puis ouvrir dans un navigateur ```html/index.html```
